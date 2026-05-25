@@ -7,7 +7,8 @@ Prompt del trigger: "Esegui automation/RUNBOOK.md per la data di oggi."
 
 - Leggi `automation/cadence.json`: fuso, account, slot, numero di post per brand/giorno.
 - Determina il giorno della settimana (Europe/Rome) e quanti post per brand vanno pubblicati oggi.
-- Chiave Publer da env `PUBLER_API_KEY`. Browser disponibile via Playwright (`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`).
+- Chiave Publer: usa `PUBLER_API_KEY` dall'ambiente se presente; altrimenti l'owner la fornisce nel prompt della routine. In quel caso esportala come `PUBLER_API_KEY` (e `PUBLER_WORKSPACE_ID`) prima di lanciare il publisher. Non scrivere mai la chiave in file versionati.
+- Browser disponibile via Playwright (`PLAYWRIGHT_BROWSERS_PATH=/opt/pw-browsers`).
 
 ## 1. Quanti contenuti generare oggi
 
