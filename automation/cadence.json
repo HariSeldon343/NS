@@ -1,0 +1,21 @@
+{
+  "timezone": "Europe/Rome",
+  "workspace_id": "6a13de8cadf35ab5536f6cf6",
+  "accounts": {
+    "amodeo": { "id": "6a13de9aadf35ab5536f6d14", "label": "Antonio Silvestro Amodeo", "type": "in_profile" },
+    "sco": { "id": "6a13deac6bf9798f6143b71e", "label": "S.Co Solution Consulting", "type": "in_page" }
+  },
+  "slots": {
+    "3": ["10:00", "13:00", "16:00"],
+    "1": ["20:00"]
+  },
+  "weekly_posts": {
+    "amodeo": { "mon": 1, "tue": 3, "wed": 1, "thu": 3, "fri": 1, "sat": 1, "sun": 1 },
+    "sco":    { "mon": 3, "tue": 1, "wed": 3, "thu": 1, "fri": 3, "sat": 3, "sun": 3 }
+  },
+  "rules": {
+    "three_posts": "2 post informativi + 1 long-form ai 3 slot 10/13/16",
+    "one_post": "il singolo contenuto piu forte e verificato del giorno, alle 20:00",
+    "totals_per_week": { "amodeo": 11, "sco": 17 }
+  }
+}
