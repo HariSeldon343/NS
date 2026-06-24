@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "sco",
+    "theme": "cyber",
+    "label": "NIS2 · SCADENZA",
+    "grad1": "#3b82f6",
+    "grad2": "#8b5cf6",
+    "title": "30 giugno: il mapping dei servizi deve essere approvato dal board",
+    "footer": "Art. 30 D.Lgs. 138/2024 · ACN · Soggetti essenziali e importanti",
+    "out": "/home/user/2026-06-24/card-sco-post1.png"
+  },
+  {
+    "brand": "sco",
+    "theme": "hse",
+    "label": "SSL · VISION ZERO",
+    "grad1": "#f97316",
+    "grad2": "#ef4444",
+    "title": "Strategia Nazionale SSL 2026-2030: ogni infortunio è prevenibile",
+    "footer": "D.Lgs. 81/2008 · Quadro strategico UE 2021-2027 · Piano Nazionale Prevenzione 2026-2031",
+    "out": "/home/user/2026-06-24/card-sco-post2.png"
+  },
+  {
+    "brand": "sco",
+    "theme": "ai",
+    "label": "NIS2 · AI ACT",
+    "grad1": "#6366f1",
+    "grad2": "#0ea5e9",
+    "title": "NIS2 e AI Act: la governance degli agenti AI non ammette doppi binari",
+    "footer": "D.Lgs. 138/2024 · Reg. UE 2024/1689 · Sistemi essenziali e importanti",
+    "out": "/home/user/2026-06-24/card-sco-post3.png"
+  },
+  {
+    "brand": "amodeo",
+    "theme": "cyber",
+    "label": "NIS2 · COMPLIANCE",
+    "grad1": "#3b82f6",
+    "grad2": "#06b6d4",
+    "title": "Sei giorni alla scadenza: tre pattern critici nell'adeguamento NIS2",
+    "footer": "Art. 30 D.Lgs. 138/2024 · Governance · Supply chain · Board accountability",
+    "out": "/home/user/2026-06-24/card-amodeo-post4.png"
+  }
+]
