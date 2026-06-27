@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "amodeo",
+    "theme": "cyber",
+    "label": "NIS2 · 30 GIUGNO",
+    "grad1": "#3b82f6",
+    "grad2": "#8b5cf6",
+    "title": "5 giorni alla scadenza: categorizzazione NIS2 sulla piattaforma ACN",
+    "footer": "Art. 30 D.Lgs. 138/2024 · Determinazione ACN 155238/2026 · Portale NIS",
+    "out": "/home/user/2026-06-25/card-amodeo-post1.png"
+  },
+  {
+    "brand": "amodeo",
+    "theme": "governance",
+    "label": "GOVERNANCE · DLGS 47",
+    "grad1": "#8b5cf6",
+    "grad2": "#ec4899",
+    "title": "D.Lgs. 47/2026: cybersecurity e AI entrano negli assetti societari",
+    "footer": "D.Lgs. 27 marzo 2026 n. 47 · Legge Capitali · Assetti organizzativi societari",
+    "out": "/home/user/2026-06-25/card-amodeo-post2.png"
+  },
+  {
+    "brand": "amodeo",
+    "theme": "ai",
+    "label": "AI ACT · CRA",
+    "grad1": "#6366f1",
+    "grad2": "#0ea5e9",
+    "title": "AI Act + Cyber Resilience Act: la finestra di compliance dell'estate 2026",
+    "footer": "Reg. UE 2024/1689 · Reg. UE 2024/2847 · D.Lgs. 138/2024",
+    "out": "/home/user/2026-06-25/card-amodeo-post3.png"
+  },
+  {
+    "brand": "sco",
+    "theme": "governance",
+    "label": "GOVERNANCE · DLGS 47",
+    "grad1": "#8b5cf6",
+    "grad2": "#ec4899",
+    "title": "D.Lgs. 47/2026: la governance digitale diventa pilastro degli assetti societari",
+    "footer": "D.Lgs. 27 marzo 2026 n. 47 · D.Lgs. 138/2024 · Reg. UE 2024/1689",
+    "out": "/home/user/2026-06-25/card-sco-post4.png"
+  }
+]
